@@ -1,6 +1,6 @@
 <?php
 
-require('Getsconto.php');
+require('getSconto.php');
 
     class User{
         public $id;
